@@ -1,4 +1,3 @@
-// Define the AngularJS module
 (function() {
     'use strict';
 
